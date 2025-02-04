@@ -1,6 +1,5 @@
-### OLÁ!  EU SOU O PAULINHO MARQUES 👋
-- 🔭 TRABALHANDO NA MOVIDA ALUGUEL DE VEÍCULOS                               
-- 🌱 ENGENHRIA DE SOFTWARE
+### OLÁ!  EU SOU O PAULINHO MARQUES 👋                               
+- 🌱 ANALISE E DESENVOLVIMENTO DE SISTEMAS
 - 📫 PAULO.MARQUES.DESENVOLVEDOR@GMAIL.COM 
 
  <div align="center">
